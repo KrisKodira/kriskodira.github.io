@@ -12,7 +12,7 @@ Right now I run my own business called [Krisnetics](https://krisnetics.com). I c
 
 If it wouldn't be for that combination, nobody would be interested in me :)
 
-But I'm also currently realising that I want to get away from [[💰 Exchanging time for money != Wealth |exchanging time for money]]. So I'm dabbling into start up, app, program and so on ideas that I can leverage and sell. This wouldn't be possible without Krinetics though.
+But I'm also currently realising that I want to get away from [exchanging time for money](/notes/Exchanging-time-for-money-!=-Wealth). So I'm dabbling into start up, app, program and so on ideas that I can leverage and sell. This wouldn't be possible without Krisnetics though.
 
 ## Career
 I've been working in IT since I'm 19 years old. So it's been roughly 6 years now. It started off with an internship at a recruiter. Started learning Python, HTML and CSS there using a course. Since I didn't like that job, because I had to mostly do shit work, I learned as much as possible and I applied for a job at an agency. 
