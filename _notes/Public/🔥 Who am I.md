@@ -30,5 +30,8 @@ Sometimes I get into a subject and I find myself completely engulfed in it. I ca
 
 Alway keep trying.
 
+## What is this?
+This is my personal garden for me. I decided to make it public as to share knowledge and ideas. You can participate in it by giving me critique which is very welcome. This Garden contains a lot of seedlings 🌱. Here is a heads up for you: Most notes are not refined yet. They get updated all the time. 
+
 ## Get in touch with me
 If you want to talk to me, I'd be happy to hear from you. Shoot me an [email](mailto:hello@krisnetics.com) or text me on [LinkedIn](https://www.linkedin.com/in/kristijan-jurcic-krisnetics/).
